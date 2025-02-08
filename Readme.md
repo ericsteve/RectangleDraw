@@ -58,7 +58,7 @@ You can run both the backend and frontend projects simultaneously using Visual S
 5. Click "OK" to save the settings.
 6. Press `F5` or click on the "Run" button to start both projects.
 
-
-    
+#### Notes
+I didn't create projects for other layers just to keep it simple in this test.
 
     
